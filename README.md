@@ -18,7 +18,7 @@
 ### file things
 1. Touch - creates files
 
-1. Cat file>txt
+1. Cat file.txt
 
 1. Echo “” > file.txt
 
